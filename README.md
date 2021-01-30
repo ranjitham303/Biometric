@@ -3,7 +3,6 @@
 ######Written in Java
 ============================
 
-You are required to implement Manhattan verifier and report **false accept (impostor pass) and false reject rates** on a publicly available keystroke biometric dataset. You may use any programming language, as long as it can be compiled on computers in HSH 212. In addition, I will ask you to demonstrate and explain your programs.
 
 **Dataset:** The data consist of keystroke-timing information from 51 subjects (typists), each typing a password (.tie5Roanl) 400 times. (http://www.cs.cmu.edu/~keystroke/)
 
